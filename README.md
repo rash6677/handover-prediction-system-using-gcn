@@ -9,6 +9,10 @@ An automated handover recommendation system leveraging **Graph Convolutional Net
 - **Realistic Performance**: Achieves ~83-85% accuracy in simulated real-world environments with environmental noise.
 - **Topology Visualization**: Integrated NetworkX visualization to inspect the BTS network and potential handover links.
 
+![BTS Network Topology](network_topology.png)
+
+![BTS Network Topology](network_topology.png)
+
 ## Project Structure
 - `handover_gcn.ipynb`: The main Jupyter Notebook containing the end-to-end pipeline (Preprocessing -> Modeling -> Training -> Visualization).
 - `train_handover.py`: A standalone Python script for quick validation and performance analysis.
