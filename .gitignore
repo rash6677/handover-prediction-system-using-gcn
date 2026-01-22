@@ -1,0 +1,7 @@
+*.xlsx
+*.xls
+inspect_data.py
+inspect_sheets.py
+# Ignore any temp/log files
+*.log
+__pycache__/
